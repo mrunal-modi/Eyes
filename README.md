@@ -1,3 +1,2 @@
 # Eyes
-## Excercise on eyes
 
